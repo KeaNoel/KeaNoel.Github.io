@@ -1,2 +1,0 @@
-# keanoel.github.io
-resume
